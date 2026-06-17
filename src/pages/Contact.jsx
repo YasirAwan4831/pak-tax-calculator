@@ -38,7 +38,7 @@ export default function Contact() {
             <Mail className="mt-1 h-5 w-5 text-primary-600 dark:text-primary-500" />
             <div>
               <h3 className="font-medium text-gray-900 dark:text-white">Email</h3>
-              <p className="text-gray-600 dark:text-gray-400">contact@paktaxcalculator.com</p>
+              <p className="text-gray-600 dark:text-gray-400">my3154831409@gmail.com</p>
             </div>
           </div>
           <div className="flex items-start gap-4">

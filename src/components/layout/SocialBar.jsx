@@ -1,9 +1,9 @@
 import { ExternalLink, Globe, Mail } from "lucide-react";
 
 const socialLinks = [
-  { icon: Globe, href: "https://github.com", label: "GitHub" },
-  { icon: ExternalLink, href: "https://linkedin.com", label: "LinkedIn" },
-  { icon: Mail, href: "mailto:contact@paktaxcalculator.com", label: "Email" },
+  { icon: Globe, href: "https://github.com/YasirAwan4831", label: "GitHub" },
+  { icon: ExternalLink, href: "https://linkedin.com/in/yasirawan4831", label: "LinkedIn" },
+  { icon: Mail, href: "mailto:my3154831409@gmail.com", label: "Email" },
 ];
 
 export default function SocialBar() {

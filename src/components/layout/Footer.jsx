@@ -27,9 +27,23 @@ export default function Footer() {
             </p>
           </div>
         </div>
+
+
+
         <div className="mt-8 border-t border-gray-200 pt-8 text-center text-sm text-gray-500 dark:border-gray-800 dark:text-gray-400">
-          © {new Date().getFullYear()} Pak Tax Calculator. Built by Muhammad Yasir.
-        </div>
+        © {new Date().getFullYear()} Pak Tax Calculator. Developed by{" "}
+      <a
+    href="https://yasirawan4831.github.io/futuristic-links-dashboard/"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="font-medium text-blue-600 hover:underline dark:text-blue-400"
+  >
+    Muhammad Yasir
+  </a>
+  .
+</div>
+
+
       </div>
     </footer>
   );
